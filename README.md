@@ -1,0 +1,9 @@
+## Writing Primer for Data Scientists
+
+Today I was composing a template for writing code tutorials using Jupyter notebooks. The idea behind this tutorial is that I want to use it as a boilerplate for an upcoming course in deep learning which I am authoring (more on that later). What meant to be a simple personal guide to maintain consistency and clarity while preparing my educational material turned out to be a primer for data scientists who want to properly communicate their research or code using collaborative technologies such as Jupyter, Distill, and Google Colab.
+
+I am calling it the “Writing Primer for Data Scientists”. It could have well been called “Writing Primer for Programmers”, but I want to keep it focused to a specific group, which includes deep learning and natural language processing researchers and engineers who want to communicate their work to a diverse audience in order to have more reach and impact.
+
+Although it is just a recent idea that came up while playing around with boilerplate code on my Jupyter notebook, I believe it has potential to reach a wider audience who may need a jumpstart for properly and effectively communicating their research, findings, and ideas. In addition, I am sharing the primer on collaborative websites like Google Colab and GitHub, so other expert writers can chip in and enhance the template.
+
+As our number one mission is to transform the way we communicate about AI technologies, I see this as a nice little resource to help accomplish our vision while at the same time assisting other young and hungry coders and writers from all backgrounds. The writing techniques I am sharing in this primer are the same ones I use to communicate about trending and emerging AI technologies at dair.ai. It has brought tremendous success to the publication over the past few months, and I want to share it with you.
